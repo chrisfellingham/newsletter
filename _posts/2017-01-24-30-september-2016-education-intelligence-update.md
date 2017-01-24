@@ -1,5 +1,5 @@
 ---
-title: 30 September 2016 - Education Intelligence Update
+title: 17 January 2015 - Education Intelligence Update
 layout: post
 ---
 
