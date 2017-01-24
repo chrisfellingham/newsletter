@@ -1,6 +1,5 @@
 ---
 title: 19 October 2017 - Education Intelligence Update
-layout: post
 ---
 
 **Hi all**  
