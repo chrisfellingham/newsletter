@@ -1,6 +1,7 @@
 ---
 title: 2 November 2016 - Education Intelligence Update
 layout: post
+date: '2016-11-02 02:42:28'
 ---
 
 Hi all
