@@ -1,6 +1,7 @@
 ---
 title: 17 January 2017 - Education Intelligence Update
 layout: post
+date: '0000-01-15 12:00:00'
 ---
 
 Hi all!

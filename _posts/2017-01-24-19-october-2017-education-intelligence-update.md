@@ -1,5 +1,6 @@
 ---
 title: 19 October 2016 - Education Intelligence Update
+date: '2016-10-19 02:36:56'
 ---
 
 **Hi all**  

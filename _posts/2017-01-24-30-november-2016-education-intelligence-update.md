@@ -1,5 +1,6 @@
 ---
 title: 30 November 2016 - Education Intelligence Update
+date: '2016-11-30 02:36:56'
 ---
 
 ##### Hi all
