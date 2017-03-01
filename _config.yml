@@ -36,11 +36,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Chris Fellingham
-  twitter: chrisfellingham
+  name: #Chris Fellingham
+  twitter: #@chrisfellingham
+  linkedin: #chris-fellingham-9ab23029
   github: #username
 <<<<<<< HEAD
-  linkedin: chris-fellingham-9ab23029
+  
 
 
 >>>>>>> master
