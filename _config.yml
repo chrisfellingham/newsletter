@@ -42,18 +42,5 @@ owner:
 <<<<<<< HEAD
   linkedin: chris-fellingham-9ab23029
 
-=======
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+
 >>>>>>> master
